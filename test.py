@@ -20,8 +20,11 @@ def test_function_2_1(a):
   
 def test_function_3(a):
     a = 100
-    a /= 2
+    a /= 3
     a *= 2
     a -= 100
     a += 100
     return a
+
+
+print(test_function_3(10))
