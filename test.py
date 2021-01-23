@@ -22,8 +22,8 @@ def test_function_3(a):
     a = 100
     a /= 3
     a *= 2
-    a -= 100
-    a += 100
+    a -= 150
+    a += 150
     return a
 
 print(test_function_1(1000))
