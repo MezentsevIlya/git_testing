@@ -19,7 +19,7 @@ def test_function_2_1(a):
     return a**2
   
 def test_function_3(a):
-    a = 300
+    a = 100
     a /= 2
     a *= 2
     a -= 100
