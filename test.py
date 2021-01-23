@@ -26,5 +26,11 @@ def test_function_3(a):
     a += 100
     return a
 
+print(test_function_1(1000))
+
+def test_function_4(a):
+    print(a)
+    return a
+
 
 print(test_function_3(10))
